@@ -1,2 +1,0 @@
-# disbutpart
-KP sistem informasi
